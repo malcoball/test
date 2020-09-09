@@ -30,3 +30,5 @@ function insertionSort(arr){
 }
 let arr = [4,6,2,3,8,6,5,3];
 console.log(bubbleSort(arr));
+
+console.log("changed");
